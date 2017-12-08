@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="edit_message">Edit a message</string>
+    <string name="send_email">Send e-mail</string>
+    <string name="add_email">Enter email address</string>
+    <string name="title_email">Title</string>
+    <string name="description_email">Description</string>
+    <string name="add_title">Title</string>
+    <string name="add_description">Description</string>
+    <string name="add_submit">Save</string>
+    <string name="add_stars">Stars</string>
+</resources>
